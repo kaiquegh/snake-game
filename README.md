@@ -6,10 +6,10 @@ Repositório desenvolvido durante a aula <a href="https://digitalinnovation.one/
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/github/repo-size/kaiquegh/netflix-clone?style=plastic">
+  <img src="https://img.shields.io/github/repo-size/kaiquegh/snake-game?style=plastic">
   <img src="https://img.shields.io/badge/made%20by-kaiquegh-green?style=plastic">
-  <img src="https://img.shields.io/github/last-commit/kaiquegh/netflix-clone?style=plastic">
-  <img src="https://img.shields.io/github/license/kaiquegh/netflix-clone?style=plastic">
+  <img src="https://img.shields.io/github/last-commit/kaiquegh/snake-game?style=plastic">
+  <img src="https://img.shields.io/github/license/kaiquegh/snake-game?style=plastic">
 </p>
 
 <p align="center">
@@ -51,7 +51,7 @@ After merging your receipt request to done, you can delete a branch from yours.
 
 
 ## [](#license):memo: Licença
-Este Projeto esta sob a MIT license. Veja [LICENSE](https://github.com/kaiquegh/netflix-clone/blob/main/LICENSE) para mais informações.
+Este Projeto esta sob a MIT license. Veja [LICENSE](https://github.com/kaiquegh/snake-game/blob/main/LICENSE) para mais informações.
 
 ----------
 
